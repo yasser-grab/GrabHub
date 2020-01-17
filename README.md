@@ -1,6 +1,7 @@
 # GrabHub
 This repository is used to learn and practice basic git commands at Grab
 
+
 # How to use this repository
 1. FORK THE REPOSITORY 
 2. IDENTIFY PROBLEMS AND BUGS
@@ -18,8 +19,13 @@ git commit -m <message>
 git push origin remote
 git pull
 git branch
-git checkout <branchName>
+gti checkout <branchName>
 git merge <branchName>
+fitbit versa 
 ```
 
-Have fun GITing good at GIT!
+Heve Fan GITting good at Git.
+
+# good sources
+https://www.atlassian.com/git/tutorials Become a Git Guru series.
+https://learngitbranching.js.org/ Interactive Git Playground
