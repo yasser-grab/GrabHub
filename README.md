@@ -30,7 +30,7 @@ git merge <branchName>
 fitbit versa 
 ```
 
-Heve Fan GITting good at Git.
+Have Fun GITting good at Git.
 
 # good sources
 https://www.atlassian.com/git/tutorials Become a Git Guru series.
