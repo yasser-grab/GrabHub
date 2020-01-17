@@ -8,6 +8,7 @@ This repository is used to learn and practice basic git commands at Grab. It als
 2. IDENTIFY PROBLEMS AND BUGS
 3. MAKE CHANGES
 4. PROFIT 
+5. FORGET EVERYTHING
 
 **ALL CHANGES SHOULD BE MADE ON YOUR OWN FORK OF THE REPOSITORY**
 
